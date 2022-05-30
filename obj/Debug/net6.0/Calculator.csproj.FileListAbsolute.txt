@@ -1,0 +1,15 @@
+C:\LR5\ystu_lab\bin\Debug\net6.0\Calculator.exe
+C:\LR5\ystu_lab\bin\Debug\net6.0\Calculator.deps.json
+C:\LR5\ystu_lab\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\LR5\ystu_lab\bin\Debug\net6.0\Calculator.dll
+C:\LR5\ystu_lab\bin\Debug\net6.0\Calculator.pdb
+C:\LR5\ystu_lab\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\LR5\ystu_lab\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\LR5\ystu_lab\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\LR5\ystu_lab\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\LR5\ystu_lab\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\LR5\ystu_lab\obj\Debug\net6.0\Calculator.dll
+C:\LR5\ystu_lab\obj\Debug\net6.0\refint\Calculator.dll
+C:\LR5\ystu_lab\obj\Debug\net6.0\Calculator.pdb
+C:\LR5\ystu_lab\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\LR5\ystu_lab\obj\Debug\net6.0\ref\Calculator.dll
