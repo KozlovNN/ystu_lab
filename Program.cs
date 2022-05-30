@@ -42,3 +42,7 @@ else if (oper == '/')
         Console.WriteLine(a + " / " + b + " = " + total);
     }
 }
+else
+{
+    Console.WriteLine("Введен неверный оператор");
+}
