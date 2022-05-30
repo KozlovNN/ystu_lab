@@ -35,3 +35,8 @@ else if (oper == '/')
     total = a / b;
     Console.WriteLine(a + " / " + b + " = " + total);
 }
+else if (oper == '^')
+{
+    total = Math.Pow(a, b);
+    Console.WriteLine(a + "^" + b + " = " + total);
+}
